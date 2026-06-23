@@ -160,7 +160,7 @@ components:
 
 ---
 
-5.7 Chapter Summary
+## 5.7 Chapter Summary
 
 · Prompt-as-Program: A prompt is an external parameter to a fixed Transformer program.
 · Formal Definition: A prompt program is a 4-tuple $(I, O, P, C)$.
