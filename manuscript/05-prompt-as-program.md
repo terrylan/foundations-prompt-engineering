@@ -162,14 +162,14 @@ components:
 
 ## 5.7 Chapter Summary
 
-· Prompt-as-Program: A prompt is an external parameter to a fixed Transformer program.
-· Formal Definition: A prompt program is a 4-tuple $(I, O, P, C)$.
-· Constraints: Formalized via dependent types and probabilistic refinements.
-· Computational Model: Attention as routing, FFN as operator, depth as composition.
-· Semantic Compression: Abbreviations act as semantic pointers—cache keys to compressed structures.
-· Hit Rate: Embedding proximity × pretraining frequency.
-· Engineering Rule: Use abbreviations as cache keys; never obscure meaning.
-· Steer Sets: Pre-compile frequently used components into abbreviations.
+- Prompt-as-Program: A prompt is an external parameter to a fixed Transformer program.
+- Formal Definition: A prompt program is a 4-tuple $(I, O, P, C)$.
+- Constraints: Formalized via dependent types and probabilistic refinements.
+- Computational Model: Attention as routing, FFN as operator, depth as composition.
+- Semantic Compression: Abbreviations act as semantic pointers—cache keys to compressed structures.
+- Hit Rate: Embedding proximity × pretraining frequency.
+- Engineering Rule: Use abbreviations as cache keys; never obscure meaning.
+- Steer Sets: Pre-compile frequently used components into abbreviations.
 
 ---
 
