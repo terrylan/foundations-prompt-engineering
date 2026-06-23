@@ -162,6 +162,7 @@ components:
 
 ## 5.7 Chapter Summary
 
+
 - Prompt-as-Program: A prompt is an external parameter to a fixed Transformer program.
 - Formal Definition: A prompt program is a 4-tuple $(I, O, P, C)$.
 - Constraints: Formalized via dependent types and probabilistic refinements.
@@ -173,7 +174,7 @@ components:
 
 ---
 
-References Cited in This Chapter
+## References Cited in This Chapter
 
 · Kim et al. (2025). "Theoretical Foundations of Prompt Engineering: From Heuristics to Expressivity." arXiv:2512.12688.
 · Nakada, R., et al. (2025). "A Theoretical Framework for Prompt Engineering: Approximating Smooth Functions with Transformer Prompts." arXiv:2503.20561.
