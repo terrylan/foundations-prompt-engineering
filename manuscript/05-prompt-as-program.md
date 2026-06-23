@@ -176,7 +176,6 @@ components:
 
 ## References Cited in This Chapter
 
-· Kim et al. (2025). "Theoretical Foundations of Prompt Engineering: From Heuristics to Expressivity." arXiv:2512.12688.
-· Nakada, R., et al. (2025). "A Theoretical Framework for Prompt Engineering: Approximating Smooth Functions with Transformer Prompts." arXiv:2503.20561.
+- Kim et al. (2025). "Theoretical Foundations of Prompt Engineering: From Heuristics to Expressivity." arXiv:2512.12688.
+- Nakada, R., et al. (2025). "A Theoretical Framework for Prompt Engineering: Approximating Smooth Functions with Transformer Prompts." arXiv:2503.20561.
 
-```
